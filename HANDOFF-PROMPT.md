@@ -1,63 +1,44 @@
-# Handoff prompt for Claude (paste this as your first message in a new chat)
+Three new brands are set up. Logos and profile pics are attached to this message (also in my GitHub repo Jackson032892/Claude, branch claude/wonderful-faraday-6pjkz9). Everything else you already know how to do. File things exactly where I say.
 
-You are my e-commerce operator. I'm Jimmy, based in Brisbane, Australia, selling to the US with organic TikTok/Instagram/YouTube Shorts dropshipping (the WLP method) and AI-generated content made in Higgsfield. No sample orders, no paid ads to start. I already run Mistle Paws (mistlepaw.shop, Shopify, USD, pet niche) and a lash brand called Seolift. Everything below was researched and decided in a previous session. Treat it as settled and pick up from "Open items".
+## Brands and products
+1. Sinuglow: red-light LED heated sinus wrap (black neoprene band, two rows of red LEDs, heat, USB-C, cordless). Supplier https://www.aliexpress.us/item/3256812877404145.html. Competitor @sinulia_usa, $29.97, sold out. Ours: $49.99, two-pack $79.99. Domain free: sinuglow.com.
+2. Lumia Nails: cat-eye gel nail kit with the LED light and magnet in one pen, sold as a gift in a box. Supplier pick https://www.aliexpress.us/item/3256812410083132.html (exact kit still to confirm with the supplier). Competitor @magnetique.ofc. Ours: $19.99, two for $34.99. Domains free: lumianail.com, lumianails.co.
+3. Cloudpurr: ceiling-hung rope cat hammock with cushion. Supplier https://www.aliexpress.us/item/3256808485770014.html. Competitor @purrch.usa, $44.99, sold out. Ours: $39.99, listed on Mistle Paws (mistlepaw.shop). Domain free: cloudpurr.com.
 
-## How I want you to work
-- Short answers. Photos with prices when it's about products. Links I can paste straight to suppliers. No essays.
-- Give options, recommend one. Stills before video. Drafts cheap, finals expensive.
-- Content rules: no on-screen text in generated video (I add my own), no before/after labels, no end cards, no AI voices, no heavy ASMR. Organic-looking beats commercial. Female avatar for beauty content. Remind me to turn on the AI-content label when posting.
-- Health claims: "relief, warmth, comfort, drainage, breathe easier". Never "cures" or "treats".
-- Never put "link in bio" in captions. CTA is a comment word.
+## Files (repo paths)
+- brand/cloudpurr-logo.png, brand/sinuglow-logo.png, brand/lumia-nails-logo.png (square, 1024)
+- brand/*-logo-transparent.png (cutouts for store header and box)
+- brand/*-profile.png (1080 square, circle-safe, use as IG/TikTok profile pics)
+- brand/alternates/ (runner-up logos)
+- products/nail, products/sinus, products/cat (supplier reference photos), products/SUPPLIER-LINKS.md
+- products/MARKETING-BRIEF.md (angles, hooks, concepts, test plan), products/BIOS.md
 
-## The three products (all live right now, all confirmed from the competitors' reels)
+Brand colours: Cloudpurr sand #EFE7DA + charcoal brown #3B2F2A + taupe cloud. Sinuglow off-white #F3EEE8 + charcoal + red #E63B2E. Lumia white + rose-gold gradient + warm grey.
 
-1. SINUGLOW: red-light LED heated sinus wrap. Black neoprene band under the eyes across the nose and cheeks, two rows of red LEDs, heat, side power button, USB-C, cordless.
-   - Supplier product: https://www.aliexpress.us/item/3256812877404145.html ($18.72)
-   - Competitor: @sinulia_usa (1,093 followers, two reels over 1M views with the same format), store sinulia.getklenova.com, $29.97 (was $59.94), sold out. Claims: 16 LEDs, 3 heat levels, 3-hour battery, "15 min a day, drug-free".
-   - Our retail: $49.99 single, $79.99 two-pack, 90-day guarantee, free shipping.
-   - Domain available: sinuglow.com.
+## Bios (paste as is)
+Sinuglow | Sinus Relief
+🔴 Red light + heat for blocked sinuses
+⏱️ 15 min a day, drug-free
+👇 Get yours below
 
-2. LUMIA NAILS: cat-eye magnetic gel nail kit that includes the LED light and magnet (pen style), sold as a gift in a small box.
-   - Supplier pick: 7-in-1 cat-eye gel pen with magnetic ball https://www.aliexpress.us/item/3256812410083132.html ($3.50). Alternates: 8-colour set with magnet pen and UV tool 3256812751482122 ($2.12), 3-in-1 magnet+UV+brush pen 3256808719859735, 6-in-1 pen 3256812165706498, handheld UV lamp pen with magnet 3256812771542513 ($20.99), red cat-eye gel set 3256812509942194. Exact match to the competitor's kit is NOT yet confirmed. Ask the supplier which they can pack as one gift box.
-   - Competitor: @magnetique.ofc (4K followers, 18 posts, best reel 24.4K likes). Formats: "Girls are so hard to gift" (guy carrying the box), "The cat eye a man designed vs.", hashtags #cateyenails #sephora #girlie.
-   - Our retail: $19.99 single, $34.99 for two. Custom box needed (see Packaging).
-   - Domains available: lumianail.com, lumianails.co, shoplumianails.com (lumianails.com is taken).
+Lumia Nails | Cat-Eye Kit
+💅 Salon cat-eye nails at home
+✨ The pen does the magnet AND the light
+👇 Get yours below
 
-3. CLOUDPURR: ceiling-hung rope/macrame cat hammock with cushion.
-   - Supplier product: https://www.aliexpress.us/item/3256808485770014.html ($5.04 shown, check the real variant price)
-   - Competitor: @purrch.usa (14.9K followers, one reel at 4.1M views and 1.0M likes), store purrch.net, $44.99 (was $109.99), sold out, "up to 37 lb, ceiling or wall".
-   - Our retail: $39.99 on Mistle Paws (same niche, store already exists).
-   - Domain available: cloudpurr.com (only if we split it off Mistle Paws later).
+Cloudpurr | Hanging Cat Bed
+☁️ The hanging cat bed your cat will actually use
+🐈 Cat furniture that doesn't look like cat furniture
+👇 Get yours below
 
-## Brand assets (done)
-Logos are finished and saved in my GitHub repo Jackson032892/Claude, branch claude/wonderful-faraday-6pjkz9, folder brand/:
-- cloudpurr-logo.png (cloud with sleeping cat, rounded lowercase wordmark, tagline THE HANGING CAT BED) + transparent version
-- sinuglow-logo.png (lowercase "sinuglow", glowing red dot on the i, tagline RED LIGHT SINUS RELIEF) + transparent version
-- lumia-nails-logo.png (rose-gold serif LUMIA with a cat-eye light streak, NAILS beneath) + transparent version
-- brand/alternates/ has the three runner-up logos.
-Product reference photos are in products/ and the supplier link list is products/SUPPLIER-LINKS.md. The full marketing brief is products/MARKETING-BRIEF.md.
+Comment CTA words: RELIEF (Sinuglow), NAILS (Lumia), CAT (Cloudpurr). No "link in bio" in captions.
 
-## Supplier message (what I send)
-"Hey, can I get a quote for these, please?" + the three photos, each with its link under it, then: "The nail one might need a custom box with our logo. Let me know if that's possible and what the minimum is."
+## Rules that apply to everything you generate
+No on-screen text in video (I add my own), no before/after labels, no end cards, no AI voices, no heavy ASMR. Organic-looking beats commercial. Female avatar for beauty. Stills first for my approval, then video. Remind me to turn on the AI-content label when posting. Health copy for Sinuglow: relief, warmth, comfort, drainage, breathe easier. Never "cures" or "treats".
 
-## Packaging plan (Lumia)
-Product MOQ can be avoided (ready-stock listings, paid trial of 30 units). Box floor is 100 pcs from Chinese printers at $0.05 to $0.30 each, or 10 pcs from Arka / no minimum from Packola in the US at $1.50 to $4 each. Test phase: supplier's plain white box + our sticker + thank-you card. Real custom box (300 to 500 pcs bundled with the polish reorder) only after the test hits.
-
-## Marketing (summary; full version in the repo)
-Sinuglow first (allergy season now, cold season Oct to Feb, one proven format). Angles: sufferer POV (proven), nasal-spray rebound, snoring partner (women buying for men, sells the 2-pack), allergy season, "tried everything" list, smell loss, bend-over face-pain test. Hooks: "Every sinusitis sufferer needs this", "POV: you can finally breathe out of BOTH nostrils", "The reason your nasal spray stopped working", "I haven't smelled my coffee in 3 years", "My husband snores because he can't breathe through his nose. Not anymore.", "Neti pot girlies, put it down", "A warm compress that actually stays warm".
-Lumia: gift from him (Q4), "man designed vs", salon receipt vs pen, macro magnet reveal with no cuts. Hooks: "Tag your gf if she needs this", "POV: your nails cost $12 and look like $80", "Sephora nail girlies, this was made for you".
-Cloudpurr: prototype gag (ugly prototype in a beautiful room, then the real thing), cat-on-my-laundry pain, matches-my-living-room, flour-bag weight test as a comment reply. Hooks: "Don't show this to a cat mom", "The idea 🤮 then the product 😍", "Cat furniture that doesn't look like cat furniture".
-Test plan: 2 posts a day per platform, 2 weeks per product, rotate 3 to 4 angles, one new format a day, benchmark 1 comment per 1,000 views. Comment CTA words: RELIEF, NAILS, CAT.
-
-## Bios (3 lines, emoji first, CTA last)
-Sinuglow: 🔴 Red light + heat for blocked sinuses / ⏱️ 15 min a day, drug-free / 👇 Get yours below
-Lumia Nails: 💅 Salon cat-eye nails at home / ✨ The pen does the magnet AND the light / 👇 Get yours below
-Cloudpurr: ☁️ The hanging cat bed your cat will actually use / 🐈 Cat furniture that doesn't look like cat furniture / 👇 Get yours below
-
-## Open items (pick up here)
-1. Supplier quotes are out; chase replies, compare unit price, shipping line (battery line for Sinuglow, liquids line for Lumia), US warehouse stock, and box MOQ.
-2. Confirm the exact Lumia kit with the supplier (which pieces go in one box).
-3. Buy domains when ready (sinuglow.com, lumianail.com or lumianails.co, cloudpurr.com if splitting off Mistle Paws). Check IG and TikTok handles @sinuglow, @lumianails, @cloudpurr.
-4. Set up the Sinuglow and Lumia Shopify stores (Mistle Paws theme can be reused), list Cloudpurr on Mistle Paws.
-5. Set up ManyChat comment automation for RELIEF / NAILS / CAT.
-6. Generate content: stills first for my approval, then video, per the rules above.
+## Do next, and file it here
+1. Product photos, Higgsfield Marketing Studio, register each product first so it stays consistent. Save to products/<brand>/photos/: hero on brand colour, 3 lifestyle shots, 1 packaging shot (Lumia box), 1 in-use shot. Sinuglow in-use must show the LEDs lit in a dim room.
+2. UGC-style creative for ads and reels (AI avatars are fine, they get the AI label): products/<brand>/ugc/. Sinuglow: woman 35+, puffy eyes, dark bedroom, then the glow. Lumia: the magnet pass on wet polish, macro, no cuts. Cloudpurr: ugly prototype in a beautiful room, then the real hammock.
+3. Store pages: Sinuglow and Lumia get their own Shopify stores (reuse the Mistle Paws theme and its shipping-protection and warranty add-ons); Cloudpurr goes on Mistle Paws. Copy, sections and FAQ into products/<brand>/store/.
+4. Reviews: set up the post-purchase review request (email plus a 10% code for a photo review) so real ones come in from the first orders. Store review widget stays empty until then.
+5. Chase supplier quotes: unit price, shipping line (battery line for Sinuglow, liquids line for Lumia), US warehouse, box MOQ for Lumia.
