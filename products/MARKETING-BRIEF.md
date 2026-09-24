@@ -117,3 +117,19 @@ Avoid:
 - Pregnancy congestion (20 to 30% of pregnant women get it). Heat and light device, unknown safety, not worth the liability.
 - Leading with "sinus headache". 75 to 95% of self-diagnosed sinus headaches are actually migraines, so it invites "didn't work" refunds. Say "face pressure" instead.
 - Nasal polyps and deviated septum as medical claims. Use them only as relatable symptoms.
+
+---
+
+## PRICING (from supplier quote, landed cost incl. YunExpress to US, 24 Sep)
+
+| Product | Landed cost | Price | Compare-at | Gross margin |
+|---|---|---|---|---|
+| Sinuglow | $14.92 | $44.99 | $89.99 | 67% |
+| Sinuglow 2-pack | $29.84 | $79.99 | $179.98 | 63% |
+| Cloudpurr | $17.42 | $49.99 | $99.99 | 65% |
+| Lumia kit (pen + LED light + file + pads) | $13.19 separate / ~$8 if one parcel | $29.99 | $59.99 | 56% / ~73% |
+| Lumia 2 colours + light | ~$9.50 one parcel | $39.99 | $79.99 | ~76% |
+| Extra Lumia colour (add-on) | ~$1 in same parcel | $12.99 | | ~90% |
+
+Margins are before Shopify payment fees (about 3 points). Competitors: Sinulia $29.97 (was $59.94, sold out), Purrch $44.99 (was $109.99, sold out). Supersedes the $19.99 Lumia and $39.99 Cloudpurr prices above.
+Ask the supplier: price for the cat-eye pen + LED tool kit shipped together as ONE parcel, and a cheaper line or US warehouse for Cloudpurr ($12.88 shipping).
