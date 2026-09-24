@@ -95,3 +95,25 @@
 - 2 posts a day per platform, 2 weeks minimum per product, rotate 3 to 4 angles, test one new format a day.
 - Benchmark: 1 comment per 1,000 views. Below that after 10 posts, change angle. Above it, spam variations of that video.
 - Comment CTA words: RELIEF (sinus), NAILS (Lumia), CAT (Cloudpurr). No "link in bio" in captions.
+
+---
+
+## SINUGLOW: audiences beyond sinusitis (added 24 Sep)
+
+Sell the symptom (blocked nose, face pressure, can't sleep), not the diagnosis. Hay fever (allergic rhinitis) inflames the nasal lining, blocks sinus drainage and is a major risk factor for sinusitis, so it's the same buyer with a bigger pool: 10 to 20% of people vs about 31M sinusitis cases a year in the US.
+
+| Audience | Why it fits | Hook |
+|---|---|---|
+| Hay fever / allergies | Biggest pool; US ragweed now, AU spring now | Every hay fever sufferer needs this |
+| Cold and flu season | Oct to Feb, universal | When the cold is gone but your nose didn't get the memo |
+| Snorers and their partners | Blocked nose forces mouth breathing and snoring | My husband snores because he can't breathe through his nose |
+| Pet allergy owners | Won't rehome the pet; shares Cloudpurr's cat-mom audience | Allergic to my cat. Not getting rid of her. |
+| Winter heating / dry air | Heating dries and thickens mucus | Why your nose blocks up every time the heater's on |
+| One blocked nostril / deviated septum | Huge, relatable, funny | Only one nostril works at night. Why is it always the one I'm lying on? |
+| Smell loss after a cold | Emotional | I haven't smelled my coffee in 3 years |
+| Frequent flyers | Pressure on descent | The only thing that got me through a flight with a sinus infection |
+
+Avoid:
+- Pregnancy congestion (20 to 30% of pregnant women get it). Heat and light device, unknown safety, not worth the liability.
+- Leading with "sinus headache". 75 to 95% of self-diagnosed sinus headaches are actually migraines, so it invites "didn't work" refunds. Say "face pressure" instead.
+- Nasal polyps and deviated septum as medical claims. Use them only as relatable symptoms.
