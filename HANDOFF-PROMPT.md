@@ -1,9 +1,9 @@
 Three new brands are set up. Logos and profile pics are attached to this message (also in my GitHub repo Jackson032892/Claude, branch claude/wonderful-faraday-6pjkz9). Everything else you already know how to do. File things exactly where I say.
 
 ## Brands and products
-1. Sinuglow: red-light LED heated sinus wrap (black neoprene band, two rows of red LEDs, heat, USB-C, cordless). Supplier https://www.aliexpress.us/item/3256812877404145.html. Competitor @sinulia_usa, $29.97, sold out. Ours: $49.99, two-pack $79.99. Domain free: sinuglow.com.
-2. Lumia Nails: cat-eye gel nail kit with the LED light and magnet in one pen, sold as a gift in a box. Supplier pick https://www.aliexpress.us/item/3256812410083132.html (exact kit still to confirm with the supplier). Competitor @magnetique.ofc. Ours: $19.99, two for $34.99. Domains free: lumianail.com, lumianails.co.
-3. Cloudpurr: ceiling-hung rope cat hammock with cushion. Supplier https://www.aliexpress.us/item/3256808485770014.html. Competitor @purrch.usa, $44.99, sold out. Ours: $39.99, listed on Mistle Paws (mistlepaw.shop). Domain free: cloudpurr.com.
+1. Sinuglow: red-light LED heated sinus wrap (black neoprene band, two rows of red LEDs, heat, USB-C, cordless). Supplier https://www.aliexpress.us/item/3256812877404145.html. Landed cost $14.92 (YunExpress to US). Competitor @sinulia_usa, $29.97, sold out. Ours: $44.99 (compare-at $89.99), two-pack $79.99, free shipping. Domain free: sinuglow.com.
+2. Lumia Nails: cat-eye gel nail kit with the LED light and magnet in one pen, sold as a gift in a box. Supplier pick https://www.aliexpress.us/item/3256812410083132.html (exact kit still to confirm with the supplier). Supplier quote: cat-eye pen $6.52 landed + LED light tool kit (light, file, pads) $6.67 landed, quoted as separate parcels; ask for one-parcel price (should be about $8 total). Competitor @magnetique.ofc. Ours: kit $29.99 (compare-at $59.99), 2 colours + light $39.99, extra colour add-on $12.99, free shipping. Domains free: lumianail.com, lumianails.co.
+3. Cloudpurr: ceiling-hung rope cat hammock with cushion. Supplier https://www.aliexpress.us/item/3256808485770014.html. Landed cost $17.42 ($12.88 of it is freight; ask for a cheaper line or US stock). Competitor @purrch.usa, $44.99, sold out. Ours: $49.99 (compare-at $99.99), free shipping, listed on Mistle Paws (mistlepaw.shop). Domain free: cloudpurr.com.
 
 ## Files (repo paths)
 - brand/cloudpurr-logo.png, brand/sinuglow-logo.png, brand/lumia-nails-logo.png (square, 1024)
@@ -32,6 +32,12 @@ Cloudpurr | Hanging Cat Bed
 👇 Get yours below
 
 Comment CTA words: RELIEF (Sinuglow), NAILS (Lumia), CAT (Cloudpurr). No "link in bio" in captions.
+
+## Angles decided
+Pricing target is 60 to 80% margin; the full pricing table is in products/MARKETING-BRIEF.md.
+Sinuglow: sell the symptom (blocked nose, face pressure, bad sleep), not the diagnosis. Lead audiences are hay fever and pet allergies (cats first; cat allergies are about twice as common as dog allergies). Real story: my mum is allergic to our cat. Hooks: "My mum is allergic to our cat. The cat isn't going anywhere.", "Just get rid of the cat. Absolutely not.", "Every hay fever sufferer needs this", "When the antihistamines stop working by 2pm". Also snoring partners, cold season, winter heating. Avoid pregnancy, avoid "sinus headache" (say "face pressure"), never say it stops allergies.
+Lumia: gift angle (push from November), salon price vs home, "the cat-eye a man designed vs", macro magnet reveal.
+Cloudpurr: prototype gag ("The idea 🤮 vs the reality 😍"), cat-mom pain points, decor, crossover with the allergy audience ("Allergic to my cat, so she got her own bed off my pillow").
 
 ## Rules that apply to everything you generate
 No on-screen text in video (I add my own), no before/after labels, no end cards, no AI voices, no heavy ASMR. Organic-looking beats commercial. Female avatar for beauty. Stills first for my approval, then video. Remind me to turn on the AI-content label when posting. Health copy for Sinuglow: relief, warmth, comfort, drainage, breathe easier. Never "cures" or "treats".
